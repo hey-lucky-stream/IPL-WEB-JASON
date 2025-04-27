@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Jio Hotstar",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/JIO-HOTSTAR-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Star Sports Hindi",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-HINDI-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Star Sports 1",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-1-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Star Sports Tamil",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-TAMIL/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Star Sports Telugu",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-TELGU-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Star Sports 2",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-2/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Willow Xtra Hindi",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/Willow-Xtra-Hindi-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/SKY-SPORTS-CRICKET-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Willow Cricket",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/Willow-Cricket-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Astro",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/ASTRO/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Starz Play",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/STARZ-PLAY-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Sky Sports NZ",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/SKY-SPORTS-NZ/' frameborder='0' allowfullscreen></iframe>"
+  }
+]
