@@ -48,6 +48,10 @@
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STARZ-PLAY-/' frameborder='0' allowfullscreen></iframe>"
   },
   {
+    "name": "T Sports",
+    "iframe": "<iframe src='https://www.tbn24.com/api/video/4031_0.m3u8' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
     "name": "Sky Sports NZ",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/SKY-SPORTS-NZ/' frameborder='0' allowfullscreen></iframe>"
   }
