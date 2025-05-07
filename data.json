@@ -3,10 +3,10 @@
     "name": "Jio Hotstar",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/JIO-HOTSTAR-/' frameborder='0' allowfullscreen></iframe>"
   },
-{
-  "name": "Fox Cricket",
-  "iframe": "<iframe id='contentFrame' sandbox='allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen='true' scrolling='no' src='https://hey-lucky-stream.github.io/Fox-Cricket-/' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>"
-},
+  {
+    "name": "Fox Cricket",
+    "iframe": "<iframe id='contentFrame' sandbox='allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen='true' scrolling='no' src='https://hey-lucky-stream.github.io/Fox-Cricket-/' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>"
+  },
   {
     "name": "English",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=eng' frameborder='0' allowfullscreen></iframe>"
@@ -19,7 +19,7 @@
     "name": "Star Sports Hindi 2",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-HINDI-/' frameborder='0' allowfullscreen></iframe>"
   },
-{
+  {
     "name": "Batter Cam",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=batter_cam' frameborder='0' allowfullscreen></iframe>"
   },
@@ -60,12 +60,8 @@
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/Willow-Xtra-Hindi-/' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "name": "Sky Sports Cricket",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/SKY-SPORTS-CRICKET-/' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
     "name": "Willow Cricket",
-    "iframe": "<iframe src='https://willow-ifrem.pages.dev/embed.php' frameborder='0' allowfullscreen></iframe>"
+    "iframe": "<iframe id='contentFrame' sandbox='allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen='true' scrolling='no' src='https://willow-ifrem.pages.dev/embed.php' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>"
   },
   {
     "name": "Astro",
