@@ -4,14 +4,6 @@
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/JIO-HOTSTAR-/' frameborder='0' allowfullscreen></iframe>"
   },
   {
-    "name": "Fox Cricket",
-    "iframe": "<iframe id='contentFrame' sandbox='allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen='true' scrolling='no' src='https://hey-lucky-stream.github.io/Fox-Cricket-/' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>"
-  },
-  {
-    "name": "English",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=eng' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
     "name": "Hindi",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/Hindi-3-/' frameborder='0' allowfullscreen></iframe>"
   },
@@ -19,22 +11,7 @@
     "name": "Star Sports Hindi 2",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-HINDI-/' frameborder='0' allowfullscreen></iframe>"
   },
-  {
-    "name": "Batter Cam",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=batter_cam' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "name": "Field View",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=field_view_cam' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "name": "Hero Cam",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=hero_cam' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "name": "Stump Cam",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/JAW-PLAYER-/?url=https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=stump_cam' frameborder='0' allowfullscreen></iframe>"
-  },
+  
   {
     "name": "Sky Sports Cricket",
     "iframe": "<iframe src='https://crichd.onlinetvbd.com/?play=65' frameborder='0' allowfullscreen></iframe>"
@@ -66,15 +43,11 @@
   {
     "name": "Astro",
     
-  "iframe": "<iframe id=\"contentFrame\" sandbox=\"allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"true\" scrolling=\"no\" src=\"https://hey-lucky-stream.github.io/ASTRO-CRICKET-/\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe>"
-   },
+  "iframe": "<iframe src='https://hey-lucky-stream.github.io/ASTRO/' frameborder='0' allowfullscreen></iframe>"
+  },
   {
     "name": "Starz Play",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STARZ-PLAY-/' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "name": "T Sports",
-    "iframe": "<iframe src='https://hey-lucky-stream.github.io/T-SPORTS-/' frameborder='0' allowfullscreen></iframe>"
   },
   {
     "name": "Sky Sports NZ",
