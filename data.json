@@ -8,6 +8,10 @@
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/Hindi-3-/' frameborder='0' allowfullscreen></iframe>"
   },
   {
+    "name": "Sky Sports Cricket",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/SKY-SPORTS-CRICKET-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
     "name": "Star Sports Hindi 2",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-HINDI-/' frameborder='0' allowfullscreen></iframe>"
   },
