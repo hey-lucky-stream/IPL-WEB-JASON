@@ -15,7 +15,6 @@
     "name": "Star Sports Hindi 2",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STAR-SPORTS-HINDI-/' frameborder='0' allowfullscreen></iframe>"
   },
-  
   {
     "name": "Sky Sports Cricket",
     "iframe": "<iframe src='https://crichd.onlinetvbd.com/?play=65' frameborder='0' allowfullscreen></iframe>"
@@ -41,17 +40,20 @@
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/Willow-Xtra-Hindi-/' frameborder='0' allowfullscreen></iframe>"
   },
   {
-  "name": "Willow Cricket",
-  "iframe": "<a href='https://hey-lucky-stream.github.io/Willow-Cricket-sj/' target='_blank'>Watch Willow Cricket</a>"
+    "name": "Willow Cricket",
+    "iframe": "<a href='https://hey-lucky-stream.github.io/Willow-Cricket-sj/' target='_blank'>Watch Willow Cricket</a>"
   },
   {
     "name": "Astro",
-    
-  "iframe": "<iframe src='https://hey-lucky-stream.github.io/ASTRO/' frameborder='0' allowfullscreen></iframe>"
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/ASTRO/' frameborder='0' allowfullscreen></iframe>"
   },
   {
     "name": "Starz Play",
     "iframe": "<iframe src='https://hey-lucky-stream.github.io/STARZ-PLAY-/' frameborder='0' allowfullscreen></iframe>"
+  },
+  {
+    "name": "Sky Sports NZ",
+    "iframe": "<iframe src='https://hey-lucky-stream.github.io/SKY-SPORTS-NZ/' frameborder='0' allowfullscreen></iframe>"
   },
   {
     "name": "Sky Sports NZ",
